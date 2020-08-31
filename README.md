@@ -1,18 +1,18 @@
 # Code 201 Reading Notes
 
 ## Table of Contents
-1. Placeholder
-2. Placeholder
-3. Placeholder
-4. Placeholder
-5. Placeholder
-6. Placeholder
-7. Placeholder
-8. Placeholder
-9. Placeholder
-10. Placeholder
-11. Placeholder
-12. Placeholder
-13. Placeholder
-14. Placeholder
-15. Placeholder
+1. [Placeholder](notes/placeholder.md)
+2. [Placeholder](notes/placeholder.md)
+3. [Placeholder](notes/placeholder.md)
+4. [Placeholder](notes/placeholder.md)
+5. [Placeholder](notes/placeholder.md)
+6. [Placeholder](notes/placeholder.md)
+7. [Placeholder](notes/placeholder.md)
+8. [Placeholder](notes/placeholder.md)
+9. [Placeholder](notes/placeholder.md)
+10. [Placeholder](notes/placeholder.md)
+11. [Placeholder](notes/placeholder.md)
+12. [Placeholder](notes/placeholder.md)
+13. [Placeholder](notes/placeholder.md)
+14. [Placeholder](notes/placeholder.md)
+15. [Placeholder](notes/placeholder.md)
