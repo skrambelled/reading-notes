@@ -1,7 +1,7 @@
 # Code 201 Reading Notes
 
 ## Table of Contents
-1. [Placeholder](notes/placeholder.md)
+1. [Class 01](notes/class-01.md)
 2. [Placeholder](notes/placeholder.md)
 3. [Placeholder](notes/placeholder.md)
 4. [Placeholder](notes/placeholder.md)
