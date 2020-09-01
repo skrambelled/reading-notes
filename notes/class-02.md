@@ -42,9 +42,9 @@ If your site has more than one page, absolutely use an external .css file, rathe
 ## Selectors
 
 selector | applies to | syntax
--------- | ------------ | ------
+-------- | ---------- | ------
 universal | all elements | `* {}`
-type | elemenrt names | `h1, h1, p {}`
+type | element names | `h1, h1, p {}`
 class | all elements with matching class attribute | `.class_value {}`
 parent.class | only matching parent elements with matching class attribute | `element_name.class_val {}`
 id | match all elements with matching id attribute | `#id_value {}`
@@ -71,11 +71,11 @@ h1 {
 
 /* name */
 h1 {
-    colour: DarkRed;
+    color: DarkRed;
 }
 ```
 
-Colour can be applied in a variety of ways
+Color can be applied in a variety of ways
 - background
 - foreground
 - opacity (when designating opacity, some browsers may not recognize it, so also set a rgb colour for that browser to fa
