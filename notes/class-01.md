@@ -37,7 +37,7 @@ p {
 }
 ```
 
-`p` is a selctor for all the `<p>` elements.
+`p` is a selector for all the `<p>` elements.
 `color` is the attribute we are modifying.
 `blue` is the value we are assigning to `color`.
 
@@ -68,7 +68,7 @@ JS allows you to declare a variable and also assign it a value inline:
 var text = "This is a test!";
 ```
 #### Types
-Javascript utilizes a few core data types for its variables:
+JavaScript utilizes a few core data types for its variables:
 - null
 - boolean
 - number
