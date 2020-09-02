@@ -1,9 +1,10 @@
 # Code 201 Reading Notes
 
 ## Table of Contents
+
 1. [Intro to HTML, CSS and JavaScript](notes/class-01.md)
-2. [More on CSS](notes/class-02.md)
-3. [Placeholder](notes/placeholder.md)
+2. [More on CSS, basic JavaScript](notes/class-02.md)
+3. [Lists, Boxes, Loops](notes/class-03.md)
 4. [Placeholder](notes/placeholder.md)
 5. [Placeholder](notes/placeholder.md)
 6. [Placeholder](notes/placeholder.md)

@@ -7,6 +7,7 @@ HTML is the language responsible for organizing the content of a web page.
 - Content is organized by HTML elements, `<h1>` (main heading) or `<p>` (paragraph).
 - Elements may have attributes, like class or language.
 - Any HTML page should have at least:
+
 ```html
 <html>
   <head>
@@ -17,6 +18,7 @@ HTML is the language responsible for organizing the content of a web page.
   </body>
 </html>
 ```
+
 - There are block level elements, which will always display on a new line, and also inline elements which will be displayed inline. You can usually modify the default of any given tag.
 - HTML5 introduced many layout elements, such as:
   - `<header>` and `<footer>`
@@ -41,8 +43,6 @@ p {
 `color` is the attribute we are modifying.
 `blue` is the value we are assigning to `color`.
 
-
-
 ## JavaScript
 
 While HTML is the content layer and CSS is the presentation layer of a web page, JavaScript is the behaviour layer.
@@ -61,14 +61,18 @@ JS runs where it is found in the HTML.
 
 You will need to insert a `<script>` tag into your html, and then point that to your .js file using the src attribute.
 
-###  Variables
+### Variables
 
 JS allows you to declare a variable and also assign it a value inline:
+
 ```js
 var text = "This is a test!";
 ```
+
 #### Types
+
 JavaScript utilizes a few core data types for its variables:
+
 - null
 - boolean
 - number
@@ -81,12 +85,12 @@ All variables in JS are dynamically typed however you can use the `'using strict
 e tight control over data type comparisons and uses.
 
 #### Naming
-* Variables must begin with a-z, $, or _ characters, and must **NOT** start with a number.
-* Can contain a number later, but **NOT** a `.` or `-`
-* Can **NOT** be a *keyword* or *reserved* name.
-* Case sensitive.
-* Should be concise, but also descriptive.
-* shouldUseCamelCase but start with lowercase, or use underscore_naming_style
 
+- Variables must begin with a-z, $, or _ characters, and must **NOT** start with a number.
+- Can contain a number later, but **NOT** a `.` or `-`
+- Can **NOT** be a *keyword* or *reserved* name.
+- Case sensitive.
+- Should be concise, but also descriptive.
+- shouldUseCamelCase but start with lowercase, or use underscore_naming_style
 
 [<-- Back](../README.md)
