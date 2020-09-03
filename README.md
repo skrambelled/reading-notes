@@ -5,7 +5,7 @@
 1. [Intro to HTML, CSS and JavaScript](notes/class-01.md)
 2. [More on CSS, basic JavaScript](notes/class-02.md)
 3. [Lists, Boxes, Loops](notes/class-03.md)
-4. [Placeholder](notes/placeholder.md)
+4. [Functions, Pair programming, Layout](notes/class-04.md)
 5. [Placeholder](notes/placeholder.md)
 6. [Placeholder](notes/placeholder.md)
 7. [Placeholder](notes/placeholder.md)
