@@ -81,6 +81,7 @@ Additionally, in a learning environment especially pair programming help:
 Links are a core concept of the web, and they tie the web together. (Hence the word 'web')
 
 There are a variety of links.
+
 - email apps
 - from one part of a page to another in the same page
 - between web pages

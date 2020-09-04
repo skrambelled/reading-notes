@@ -3,6 +3,7 @@
 CSS or Cascading Style Sheets are used to control the appearance of content in HTML
 
 You can manipulate a variety of html elements such as:
+
 - Boxes
 - Text
 - Tables
@@ -53,6 +54,7 @@ Many more, plus also advanced selectors.
 ## Color
 
 You can specify colors in three different ways.
+
 ```css
 /* rgb */
 h1 {
@@ -76,6 +78,7 @@ h1 {
 ```
 
 Color can be applied in a variety of ways
+
 - background
 - foreground
 - opacity (when designating opacity, some browsers may not recognize it, so also set a rgb colour for that browser to fa
