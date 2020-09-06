@@ -84,7 +84,7 @@ Never allow user input to allow javascript, escape chars, or markup.
 
 You can accomplish this by validating or excluding input, but you have to do it at the sever level to defend against users that have their JavaScript turned off.
 
-## Chroms
+## Chrome
 
 You can inspect a page in chrome to look at the DOM.
 
