@@ -16,13 +16,13 @@ An example of a pizza object:
 
 ```js
 var pizza {
-  slices: 8; // this pizza starts with 8 slices
+  slices: 8, // this pizza starts with 8 slices
   
   // a method to remove 1 slice
   removeSlice: function() {
     if(this.slices)
       this.slices--;
-  }
+  },
 
   // a method to query how many slices this pizza has
   querySlices: function() {
