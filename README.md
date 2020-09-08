@@ -8,7 +8,7 @@
 4. [Functions, Pair programming, Layout](notes/class-04.md)
 5. [Images, Color, Text](notes/class-05.md)
 6. [Problem Domain, Objects, DOM](notes/class-06.md)
-7. [Placeholder](notes/placeholder.md)
+7. [Tables and Constructors](notes/class-07.md)
 8. [Placeholder](notes/placeholder.md)
 9. [Placeholder](notes/placeholder.md)
 10. [Placeholder](notes/placeholder.md)
