@@ -9,7 +9,7 @@
 5. [Images, Color, Text](notes/class-05.md)
 6. [Problem Domain, Objects, DOM](notes/class-06.md)
 7. [Tables and Constructors](notes/class-07.md)
-8. [Placeholder](notes/placeholder.md)
+8. [CSS Layout](notes/class-08.md)
 9. [Placeholder](notes/placeholder.md)
 10. [Placeholder](notes/placeholder.md)
 11. [Placeholder](notes/placeholder.md)

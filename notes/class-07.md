@@ -22,7 +22,6 @@ Extra elements for better styling and screenreader support:
 - `<tbody>`
 - `<tfoot>`
 
-
 ### Represent complex data in a table
 
 ## Constructors
