@@ -11,7 +11,7 @@
 7. [Tables and Constructors](notes/class-07.md)
 8. [CSS Layout](notes/class-08.md)
 9. [Forms and Events](notes/class-09.md)
-10. [Placeholder](notes/class-10.md)
+10. [Images and Practical Information](notes/class-11.md)
 11. [Placeholder](notes/placeholder.md)
 12. [Placeholder](notes/placeholder.md)
 13. [Placeholder](notes/placeholder.md)
