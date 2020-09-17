@@ -14,6 +14,6 @@
 10. [Images and Practical Information](notes/class-11.md)
 11. [Charts.js](notes/class-12.md)
 12. [Storage](notes/class-13.md)
-13. [Placeholder](notes/placeholder.md)
+13. [CSS transforms, transitions, animations](notes/class-14.md)
 14. [Placeholder](notes/placeholder.md)
 15. [Placeholder](notes/placeholder.md)
