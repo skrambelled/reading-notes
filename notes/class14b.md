@@ -16,3 +16,5 @@ Another metric. When everyone in the team was sensitive to eachothers thoughts/m
 Teams optimized for individual performance did not do as well as teams optimized for group collaboration.
 
 Teams that allow for open communication between members who respect eachother is the way to go over a team composed of the best and brightest.
+
+[<-- Back](../README.md)
