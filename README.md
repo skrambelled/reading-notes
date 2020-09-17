@@ -15,5 +15,5 @@
 11. [Charts.js](notes/class-12.md)
 12. [Storage](notes/class-13.md)
 13. [CSS transforms, transitions, animations](notes/class-14.md)
-14. [Placeholder](notes/placeholder.md)
+14. [Team dynamics](notes/class14b.md)
 15. [Placeholder](notes/placeholder.md)
