@@ -1,0 +1,1 @@
+An iframe acts as an inline window to another page.

@@ -1,5 +1,17 @@
 # Reading Notes
 
+## __Code 102__ - Intro to Software Development
+
+1. [Learning Markdown](102/learning_markdown.md)
+1. [Coders Computer](102/coders_computer.md)
+1. [Git intro](102/git.md)
+1. [Structure of web pages](102/structure_web_pages)
+1. [CSS Design](102/css_design.md)
+1. [Intro to Javascript](102/javascript.md)
+1. [Computer Architecture](102/computer_architecture.md)
+1. [Programming in JavaScript](102/programming_js.md)
+1. [Operators and loops](102/operators_loops.md)
+
 ## __Code 201__ - Foundations of Software Development
 
 1. [Intro to HTML, CSS and JavaScript](201/class-01.md)
@@ -20,3 +32,22 @@
 ## __Code 301__ - Intermediate Software Development
 
 ## __Code 401__ - Advanced Software Development
+
+## About Me
+
+I am Mark Bell. I am a student at Code Fellows.
+I am a hobbyist coder working on becoming a professional coder!
+Additionally, I work in the food industry for the time being, and have many interests, namely wood working. I have been working on creating a woodshop in my garage in my spare time (which I expect to have very little of for a while.)
+
+[github](https://github.com/skrambelled)
+
+## Reflection on a Growth Mindset
+
+A **growth mindset** is one of _progress_, rather than _stasis_. There will be ups and also downs when approaching life and, more specifically, coding from a growth mindet perspective and that is ok. You can take a step back for every two steps forward. You'll still be going in the direction of growth.
+
+fixed mindset | growth mindset
+------------- | --------------
+avoid challenges rather than risk failure | embraces challenges, even if you fail it is still an opportunity to learn
+gives up easily when challenged | persists through challenges
+shuts out criticism | uses criticism to learn
+threatend by others' success | uses others' success as a source of inspritation or building block
