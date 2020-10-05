@@ -51,7 +51,7 @@ Media query features:
 
 * `height`
 * `width`
-* `spect-ratio`
+* `aspect-ratio`
 * `pixel-ratio`
 * `resolution`
 * `orientation`
