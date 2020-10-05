@@ -40,7 +40,6 @@ Media query types:
 * `print`
 * `tv`
 * `braille`
-* More types are supported over time
 
 Media query operators:
 
