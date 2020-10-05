@@ -27,9 +27,11 @@
 1. [Charts.js](201/class-12.md)
 1. [Storage](201/class-13.md)
 1. [CSS transforms, transitions, animations](201/class-14.md)
-1. [Team dynamics](201/class14b.md)
+1. [Team dynamics](201/class-14b.md)
 
 ## __Code 301__ - Intermediate Software Development
+
+1. [Responsive Web Design](301/class-01.md)
 
 ## __Code 401__ - Advanced Software Development
 
