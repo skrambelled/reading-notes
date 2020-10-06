@@ -32,6 +32,7 @@
 ## __Code 301__ - Intermediate Software Development
 
 1. [Responsive Web Design](301/class-01.md)
+1. [jQuery](301/class-02.md)
 
 ## __Code 401__ - Advanced Software Development
 
