@@ -33,6 +33,7 @@
 
 1. [Responsive Web Design](301/class-01.md)
 1. [jQuery](301/class-02.md)
+1. [Flexbox](301/class-03.md)
 
 ## __Code 401__ - Advanced Software Development
 
