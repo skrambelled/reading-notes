@@ -19,7 +19,7 @@ This will define all container class elements as flexbox containers, so that the
 * `flex-flow: (flex-direction) (flex-wrap);`
 * `justify-content: flex-start (default) | flex-end | center | space-between | space-around | space-evenly;`
 * `align-items: stretch (default) | flex-start | flex-end | center | baseline | much more, see link below`
-* `align-content: flex-start | flex-end | center | stretch | space-between | space-around
+* `align-content: flex-start | flex-end | center | stretch | space-between | space-around`
 
 
 ## Properties for the children
