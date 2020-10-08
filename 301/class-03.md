@@ -21,7 +21,6 @@ This will define all container class elements as flexbox containers, so that the
 * `align-items: stretch (default) | flex-start | flex-end | center | baseline | much more, see link below`
 * `align-content: flex-start | flex-end | center | stretch | space-between | space-around`
 
-
 ## Properties for the children
 
 * `order: num;` - changes the ordering of that element, by val which can by positive or negative values. 0 is default.
