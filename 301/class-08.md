@@ -6,6 +6,19 @@ You can use SQL to collect data from databases.
 
 A db is a collection of tables, each with their own cols and rows.
 
+## CRUD
+
+CRUD is the acronym for DB actions. CRUD can map to the REST web response-request cycle (REpresentational State Transfer, not a great acronym imo)
+
+CRUD | REST
+---- | ----
+Create | Post
+Read | Get
+Update | Put
+Delete | Delete
+
+## `SELECT`
+
 In SQL you can `SELECT` a col `FROM` a table, `WHERE` a conditions is met.
 
 Capitalization is a common convention, but not technically required.
