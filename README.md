@@ -40,6 +40,7 @@
 1. [SQL](301/class-08.md)
 1. [Refactoring](301/class-09.md)
 1. [The call stack](301/class-10.md)
+1. [EJS and Google Books API](301/class-11.md)
 
 ## __Code 401__ - Advanced Software Development
 
