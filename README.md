@@ -43,6 +43,7 @@
 1. [EJS and Google Books API](301/class-11.md)
 1. [EJS partials](301/class-12.md)
 1. [Sending Form Data](301/class-13.md)
+1. [DB normalization](301/class-14.md)
 
 ## __Code 401__ - Advanced Software Development
 
