@@ -46,7 +46,9 @@
 1. [DB normalization](301/class-14.md)
 1. [Diversity](301/class-15.md)
 
-## __Code 401__ - Advanced Software Development
+## __Code 401__ - Advanced Software Development - Python
+
+1. [](401/class-01.md)
 
 ## About Me
 
