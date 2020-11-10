@@ -48,7 +48,8 @@
 
 ## __Code 401__ - Advanced Software Development - Python
 
-1. [](401/class-01.md)
+1. [Names](401/class-01.md)
+1. [Recursion, Testing and Modules](401/class-02.md)
 
 ## About Me
 
