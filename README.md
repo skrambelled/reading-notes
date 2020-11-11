@@ -50,6 +50,7 @@
 
 1. [Names](401/class-01.md)
 1. [Recursion, Testing and Modules](401/class-02.md)
+1. [Read/Write files](401/class-03.md)
 
 ## About Me
 
