@@ -52,6 +52,7 @@
 1. [Recursion, Testing and Modules](401/class-02.md)
 1. [Read/Write files](401/class-03.md)
 1. [Classes and Objects](401/class-04.md)
+1. [Linked lists](401/class-05.md)
 
 ## About Me
 
