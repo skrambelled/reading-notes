@@ -43,7 +43,7 @@ There are several stages of risk analysis
 
 * steps get added
 * drop constants
-* deiffernent inputs get different variables
+* different inputs get different variables
 * drop non-dominant terms
 
 [<-- Back](../README.md)

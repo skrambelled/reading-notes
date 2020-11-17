@@ -53,7 +53,8 @@
 1. [Read/Write files](401/class-03.md)
 1. [Classes and Objects](401/class-04.md)
 1. [Linked lists](401/class-05.md)
-1. ["](401/class-06.md)
+1. [Risk](401/class-06.md)
+1. [Python SCope](401/class-07.md)
 
 ## About Me
 
