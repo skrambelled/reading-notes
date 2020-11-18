@@ -55,6 +55,7 @@
 1. [Linked lists](401/class-05.md)
 1. [Risk](401/class-06.md)
 1. [Python SCope](401/class-07.md)
+1. [List Comprehensions & Decorators](401/class-08.md)
 
 ## About Me
 
