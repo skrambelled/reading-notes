@@ -57,6 +57,7 @@
 1. [Python SCope](401/class-07.md)
 1. [List Comprehensions & Decorators](401/class-08.md)
 1. [Dunder methods](401/class-09.md)
+1. [Stacks and Queue](401/class-10.md)
 
 ## About Me
 

@@ -6,6 +6,7 @@ We've already been exposed to `__init__`, `__repr__` and `__str__`
 
 Dunder methods allow classes to emulate builtins
 
+
 dunder | what it does
 ------ | -------
 `__init__` | object initialization
