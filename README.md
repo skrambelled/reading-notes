@@ -58,6 +58,7 @@
 1. [List Comprehensions & Decorators](401/class-08.md)
 1. [Dunder methods](401/class-09.md)
 1. [Stacks and Queue](401/class-10.md)
+1. [Jupyter and NumPy](401/class-11.md)
 
 ## About Me
 
