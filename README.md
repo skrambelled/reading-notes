@@ -61,7 +61,8 @@
 1. [Jupyter and NumPy](401/class-11.md)
 1. [Pandas](401/class-12.md)
 1. [Trees](401/class-13.md)
-1. [Linear Regression](401/class-14md)
+1. [Linear Regression](401/class-14.md)
+1. [matplotlib](401/class-15.md)
 
 ## About Me
 
