@@ -63,6 +63,7 @@
 1. [Trees](401/class-13.md)
 1. [Linear Regression](401/class-14.md)
 1. [matplotlib](401/class-15.md)
+1. [Web scraping](401/class-16.md)
 
 ## About Me
 
