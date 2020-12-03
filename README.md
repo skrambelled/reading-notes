@@ -64,6 +64,7 @@
 1. [Linear Regression](401/class-14.md)
 1. [matplotlib](401/class-15.md)
 1. [Web scraping](401/class-16.md)
+1. [Regex in Python](401/class-17.md)
 
 ## About Me
 
