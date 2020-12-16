@@ -67,6 +67,7 @@
 1. [Regex in Python](401/class-17.md)
 1. [Django](401/class-26.md)
 1. [Django Models](401/class-27.md)
+1. [Django CRUD Forms](401/class-28.md)
 
 ## About Me
 
