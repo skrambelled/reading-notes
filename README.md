@@ -69,6 +69,7 @@
 1. [Django Models](401/class-27.md)
 1. [Django CRUD Forms](401/class-28.md)
 1. [Django Custom User Model](401/class-29.md)
+1. [Hashtables](401/class-30.md)
 
 ## About Me
 
