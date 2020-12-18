@@ -37,7 +37,7 @@ When doing so, make sure you sanitize the incomming data, so as not to have hole
 
 We can also wrap views with decorator `@login_required` so that users without credentials cannot submit forms.
 
-There is also a cross-site forgery protection token, {% crsf_token %} that should be included when rendering the form to the user, to reduce attacks from malicious users.
+There is also a cross-site forgery protection token,`{% csrf_token %}` that should be included when rendering the form to the user, to reduce attacks from malicious users.
 
 ## ModelForms
 
