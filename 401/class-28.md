@@ -7,7 +7,7 @@ POST method should be used when data *will* change.
 
 ---
 
-## Django form handling:
+## Django form handling
 
 1. First users asks for the form.
 1. Then user submits form.
@@ -37,7 +37,7 @@ When doing so, make sure you sanitize the incomming data, so as not to have hole
 
 We can also wrap views with decorator `@login_required` so that users without credentials cannot submit forms.
 
-There is also a cross-site forgery protection token,`{% csrf_token %}` that should be included when rendering the form to the user, to reduce attacks from malicious users.
+There is also a cross-site forgery protection token,`csrf_token` that should be included when rendering the form to the user, to reduce attacks from malicious users.
 
 ## ModelForms
 
