@@ -71,8 +71,9 @@
 1. [Django Custom User Model](401/class-29.md)
 1. [Hashtables](401/class-30.md)
 1. [Docker](401/class-31.md)
-1. [DRF Permissions](401/class/32-md)
-1. [JSON Web Tokens](401/class/33-md)
+1. [DRF Permissions](401/class-32.md)
+1. [JSON Web Tokens](401/class-33.md)
+1. [Django settings | SSH](401/class-36.md)
 
 ## About Me
 
