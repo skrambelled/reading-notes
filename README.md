@@ -74,7 +74,8 @@
 1. [DRF Permissions](401/class-32.md)
 1. [JSON Web Tokens](401/class-33.md)
 1. [Django settings and SSH](401/class-36.md)
-1. [Machine learning](401/class-37.md)ama
+1. [Machine learning](401/class-37.md)
+1. [Cryptography](401/class-38.md)
 
 ## About Me
 

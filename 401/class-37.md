@@ -20,7 +20,7 @@ Machine learning has more than these two categories of taskes, but the main two 
 
 ### 3 elements of great machine learning
 
-1. a skilled ched (human guidance)
+1. a skilled chef (human guidance)
 2. fresh ingredients (clean, relevant data)
 3. don't overcook it (avoid overfitting)
 
