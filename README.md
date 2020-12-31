@@ -76,6 +76,7 @@
 1. [Django settings and SSH](401/class-36.md)
 1. [Machine learning](401/class-37.md)
 1. [Cryptography](401/class-38.md)
+1. [Whiteboarding](401/class-39.md)
 
 ## About Me
 
