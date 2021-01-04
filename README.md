@@ -77,6 +77,7 @@
 1. [Machine learning](401/class-37.md)
 1. [Cryptography](401/class-38.md)
 1. [Whiteboarding](401/class-39.md)
+1. [React](401/class-41.md)
 
 ## About Me
 
