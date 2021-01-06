@@ -78,7 +78,8 @@
 1. [Cryptography](401/class-38.md)
 1. [Whiteboarding](401/class-39.md)
 1. [React I](401/class-41.md)
-1. [React II](401/class/42.md)
+1. [React II](401/class-42.md)
+1. [Next.js](401/class-43.md)
 
 ## About Me
 
