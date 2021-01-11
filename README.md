@@ -79,7 +79,10 @@
 1. [Whiteboarding](401/class-39.md)
 1. [React I](401/class-41.md)
 1. [React II](401/class-42.md)
-1. [Next.js](401/class-43.md)
+1. [Next.js I](401/class-43.md)
+1. [Next.js II](401/class-44.md)
+1. [Graphs](401/class-45.md)
+1. [Pythonisms](401/class-46.md)
 
 ## About Me
 
