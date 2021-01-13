@@ -83,6 +83,8 @@
 1. [Next.js II](401/class-44.md)
 1. [Graphs](401/class-45.md)
 1. [Pythonisms](401/class-46.md)
+1. [Ethics](401/class-47.md)
+1. [Contributing to open source](401/class-48.md)
 
 ## About Me
 
